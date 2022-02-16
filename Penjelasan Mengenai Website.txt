@@ -1,0 +1,31 @@
+NAMA        : Kreshna Putra Adi WIcaksna
+NIM         : V3920032
+KELAS       : TIA
+MATA KULIAH : PEMROGRAMAN WEB
+
+https://kreshna3131.github.io/
+
+Assalamualaikum Bu. Nama saya Kreshna Putra adi Wicaksana (V3920032) dari TIA.
+Pada Jobsheet ini, saya membuat sebuah web statis yang berbentuk tribute page.
+Di dalam tugas ini, saya menerapkan HTML CSS dan sedikit Javascript.
+HTML terdiri:
+1. index.html yang berisi tampilan tribute page
+2. sejarah.html yang berisi sejarah berdirinya peterpan hingga Noah
+3. profile.html yang berisi profile card data diri saya.
+
+CSS terdiri:
+1. style.css untuk index.html
+2. sejarah.css untuk sejarah.html
+3. profile.css untuk profile.html
+
+JavaScript terdiri:
+1. script.js yang dimana hanya berisi code untuk memberikan animasi
+	pada tulisan Follow Noah di bagian footer.
+
+di dalam website ini ada lagu yang diputar, tetapi harus di allow telebih dahulu
+jika ingin audionya muncul.
+
+IMG yang berisi foto-foto untuk halaman yang dibutuhkan.
+
+Mohon maaf bu untuk website masih belum responsive dikarenakan
+saya masih memahami cara kerja responsive web.
